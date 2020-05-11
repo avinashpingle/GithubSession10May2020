@@ -26,4 +26,8 @@ public class CourseTab {
 	public void clickOnCourseTab() {
 		CourseTab.click();
 	}
+	public void clickAutomationTesting() {
+		automationTesting.click();
+
+	}
 }
