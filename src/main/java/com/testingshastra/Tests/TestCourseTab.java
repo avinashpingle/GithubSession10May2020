@@ -34,6 +34,6 @@ public class TestCourseTab {
 		ct.clickAutomationTesting();
 		String actualTitle = driver.getTitle();
 		Assert.assertEquals(actualTitle, expectedTitle);
-		
+		// Added by Shreyas
 	}
 }
